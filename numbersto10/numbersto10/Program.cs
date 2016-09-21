@@ -59,17 +59,12 @@ namespace numbersto10
                                         }
                                         else
                                         {
-                                            if (num == 9)
-                                            {
-                                                Console.WriteLine("nine");
-                                            }
-                                            else
-                                            {
-
-                                                if (num > 9)
-                                                {
-                                                    Console.WriteLine("number too big.");
-                                                }
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
                                             }
                                         }
                                     }
