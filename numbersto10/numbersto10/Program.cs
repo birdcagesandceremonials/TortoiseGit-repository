@@ -13,8 +13,7 @@ namespace numbersto10
             var num = int.Parse(Console.ReadLine());
             
 			var florence = int.Parse(Console.ReadLine());
-			var peshko = double.Parse(Console.ReadLine());
-			string idc = Console.ReadLine();
+			
 			
 			
 			
