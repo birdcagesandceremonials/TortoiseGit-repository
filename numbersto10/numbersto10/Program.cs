@@ -51,6 +51,7 @@ namespace numbersto10
                                     }
                                     else
                                     {
+										//It is a wonderful day to do some programming. Yep :) ^ 
                                         if (num == 8)
                                         {
                                             Console.WriteLine("eight");
