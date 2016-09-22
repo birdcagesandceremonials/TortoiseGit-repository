@@ -16,8 +16,7 @@ namespace numbersto10
 
 			var peshko = double.Parse(Console.ReadLine());
 			string idc = Console.ReadLine();
-			var iDontKnowAnymoreButImJustDoingIt = int.Parse(Console.ReadLine());
-			var itIsAHappyDay= double.Parse(Console.ReadLine());
+		
 
 			
 			
