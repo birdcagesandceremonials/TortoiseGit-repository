@@ -55,21 +55,8 @@ namespace numbersto10
                                         {
                                             Console.WriteLine("eight");
                                         }
-                                        else
-                                        {
-                                            if (num == 9)
-                                            {
-                                                Console.WriteLine("nine");
-                                            }
-                                            else
-                                            {
-
-                                                if (num > 9)
-                                                {
-                                                    Console.WriteLine("number too big.");
-                                                }
-                                            }
-                                        }
+                                        
+                                       
                                     }
                                 }
                             }
