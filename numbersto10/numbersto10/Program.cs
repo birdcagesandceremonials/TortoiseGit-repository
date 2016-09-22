@@ -11,16 +11,14 @@ namespace numbersto10
         static void Main(string[] args)
         {
             var num = int.Parse(Console.ReadLine());
-            if (num == 1)
-            {
-                Console.WriteLine("one");
-            }
-            else
-            {
-                if (num ==2)
-                {
-                    Console.WriteLine("two");
-                }
+            
+			
+			
+			
+			
+			
+			
+			
                 else
                 {
                     if (num == 3)
