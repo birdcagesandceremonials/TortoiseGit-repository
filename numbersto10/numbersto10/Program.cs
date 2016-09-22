@@ -55,8 +55,6 @@ namespace numbersto10
                                         {
                                             Console.WriteLine("eight");
                                         }
-                                        
-                                       
                                     }
                                 }
                             }
